@@ -1,0 +1,2 @@
+[21-Sep-2022 13:52:04 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.30. in /home2/braintc4/public_html/filemanager/vendor/composer/platform_check.php on line 24
+[21-Sep-2022 18:32:13 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.30. in /home2/braintc4/public_html/filemanager/vendor/composer/platform_check.php on line 24
